@@ -1,0 +1,1 @@
+Collection of App Store app headers for some of the apps that I used. These are all grabbed by myself with classdump-dyld so are unofficial. All app headers here are from apps from the UK App Store.
