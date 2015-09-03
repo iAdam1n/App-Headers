@@ -1,4 +1,4 @@
-Collection of App Store app headers for a handful of apps. These are all grabbed by myself with classdump-dyld so are unofficial. All app headers here are from apps from the UK App Store. I'm accepting requests for free apps to grab headers for. However, these will not be updated much if at all due to not using them myself and not knowing when they get updated.
+Collection of App Store app headers for a handful of apps. These are all grabbed by myself with classdump-dyld so are unofficial. All app headers here are from apps from the UK App Store. I'm accepting requests for free apps to grab headers for. However, these will not be updated much, if at all, due to not using them myself so I won't know when they get updated.
 
 If you would like to grab headers but do not know how, below is how I did it: <br />
 1. Install classdump-dyld from http://limneos.net/repo <br />
