@@ -1,5 +1,7 @@
 Collection of App Store app headers for a handful of apps. These headers are unofficial. If you would like headers for free apps, I accept requests.
 
+As of 24th December 2016, I no longer update these headers unless specifically requested.
+
 If you would like to grab headers but do not know how, below is how I did it: <br />
 1. Install classdump-dyld from BigBoss. <br />
 2. Find UUID of the App from /private/var/mobile/Containers/Bundle/Application (iOS 8 or later). <br />
